@@ -10,6 +10,9 @@
     "content": "https://tamaranga.com/microblog/content",
     "load": "https://tamaranga.com/microblog/load"
   },
-  "lang": {}
+  "lang": {},
+  "styles": {
+    "color": "black",
+    "bg": "//tamaranga.com/plugins/microblog_p0e2bd7/img/blue-bg.jpg"
+  }
 }
-
