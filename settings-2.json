@@ -1,4 +1,15 @@
 {
-  "setting": "test2"
+  "cookiePostsName": "mb_posts",
+  "cookieParamExpires": 30,
+  "delayPopover": 20000,
+  "durationPopover": 10000,
+  "delayLoad": 60000,
+  "delayStart": 5000,
+  "isCounter": false,
+  "url": {
+    "content": "https://tamaranga.com/microblog/content",
+    "load": "https://tamaranga.com/microblog/load"
+  },
+  "lang": {}
 }
 
