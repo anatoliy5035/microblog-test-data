@@ -4,8 +4,8 @@
   "delayPopover": 20000,
   "durationPopover": 10000,
   "delayLoad": 60000,
-  "delayStart": 5000,
-  "isCounter": false,
+  "delayStart": 4000,
+  "isCounter": true,
   "url": {
     "content": "https://tamaranga.com/microblog/content",
     "load": "https://tamaranga.com/microblog/load"
